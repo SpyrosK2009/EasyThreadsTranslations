@@ -7,5 +7,5 @@ Just pull the repisitory and edit/add your Translation. If you are done send a p
 # What to Translate?
 "thisisanexample": "ThisIsAnExample2"
 Please DO NOT translate "thisisanexample", only translate "ThisIsAnExample2". There are also other things you shouldn't translate:
-(bracket1) [bracket2] {bracket3} are variables, please don't translate those!
+(bracket1) [bracket2] {bracket3} are variables, please don't translate those! BUT at the help Page in the Help_Bot_Variables you are allowed to translate the (threadmessage) bracked for the {usermention} variable.
 In <those "brackets"> are Timestamps. Please don't change them. Of course you can add your credits in (thisbrackets) at "selectlanguage_credits" like: "(transladed by YourName#0001)"
