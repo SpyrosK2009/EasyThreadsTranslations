@@ -3,7 +3,7 @@ Here you can edit/add the Bot Translation for your language!
 
 
 # How to Translate?
-Just pull the repisitory and edit/add your Translation. If you are done send a pull request. If you add a completely new Language or help a lot with Translation you can request the Translator role in our Discord Server! Note: If you add new language files please name them with the regional indicator of the country, for example for Germany: de.json
+Just pull the repisitory and edit/add your Translation. If you are done send a pull request. If you add a completely new Language or help a lot with Translation you can request the Translator role in our Discord Server! Note: If you add new language files please name them with the regional indicator of the country, for example for Germany: de.json and add them in the languages folder
 
 # What to Translate?
 "thisisanexample": "ThisIsAnExample2"
