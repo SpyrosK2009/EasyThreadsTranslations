@@ -1,0 +1,52 @@
+{
+    "audit_log_thread_reason": "自創討論串"
+    "error_title": "錯誤"
+    "error_missing_bot_permission": "我沒有充足的權限來執行這程序。請給我充足的權限。
+    "error_wrong_channel_type": "此指令只能在文字頻道或公告頻道中使用"
+    "unknown_error": "發生了一個未知的錯誤"
+    "error_please_try_again": "請再試試"
+    "error_invalid_channel": "無效頻道"
+    "error_already_autothreaded": "此頻道已是自創討論串"
+    "error_not_autothreaded": "此頻道不是自創討論串"
+    "error_already_unautothreaded": "此頻道不是自創討論串"
+    "error_unsupported_language": "無翻譯的語言。您可加入我的服務器幫助翻譯成您的語言"
+    "success_language_changed": "語言更換成功"
+    "success_title": "成功"
+    "success_addchannel": "{channel} 現在是自創討論串",
+    "success_removechannel": "{channel} 不再是自創討論串",
+    "help_title": "關於簡易討論串"
+    "help_description": "我是簡易討論串, 我可為您自創討論串\n\n我從<t:1656771527:D>自創討論串\n\n**我的指令是**: \n[help] | 得到這優秀的支持頁\n[addchannel] | 讓一個頻道自創討論串 \n",
+    "help_description_2": "[removechannel] | 把自創討論串刪除於一個頻道\n[listchannels] | 列出所有自創討論串頻道\n[setname] | 設定討論串的名稱於一個設定的頻道\n[setthreadmessage] | 設置傳訊息制造討論串 (每個頻道)\n[setdelay] | 設置討論串創建的延遲 (每個頻道)\n[set-language] | 更改機器人的語言",
+    "help_bot_variables": "\n\n**機器人變量直**:\n{user} | 傳訊息的用戶\n{channel} | 頻道傳訊息被發送到\n{guild} | 交流團訊息被發送到\n{time} | 傳訊息時間\n{date} | 傳訊息的日期",
+    "help_bot_invite_me": "Invite me", "邀請我"
+    "help_bot_support_server": "Support Server", "支援群組"
+    "help_bot_vote": "Vote for me", "請投票給我"
+    "help_bot_privacy_tos": "Privacy / TOS",  "隱私權政策 / 服務條款"
+    "ignorebots_newsetting": "忽略機器人設定現在設置為: **{setting}**",
+    "listchannels_title": "自創討論串的頻道"
+    "removechannel_description": "此頻道不再是自創討論串"
+    "setdelay_reset_description": "延遲現在設為 0"
+    "setdelay_description": "此頻道討論串創建的延遲現在設為 **{delay}seconds**!"
+    "setname_provide_name_title": "請指名！"
+    "setname_provide_name_description": "用法: /設置名稱 <name>\n\n**可用的變量直:** \n{user} | 傳訊息的用戶\n{channel} | 頻道傳訊息被發送到\n{guild} | 交流團訊息被發送到\n{time} | 傳訊息時間\n{date} | 傳訊息的日期",
+    "setname_description": "此頻道討論串的名稱現在設為 **{name}**!","
+    "setthreadmessage_provide_message_title": "Please provide a message!", "請傳訊息！"
+    "setthreadmessage_provide_message_description": "用法: /設置討論串訊息 <message>\n\n**可用的變量直:** \n{user} | 傳訊息的用戶\n{channel} | 頻道傳訊息被發送到\n{guild} | 交流團訊息被發送到\n{time} | 傳訊息時間\n{date} | 傳訊息的日期",
+    "setthreadmessage_description": "此頻道討論串的訊息現設為 **{message}**!",
+    "selectlanguage_credits": "語言翻譯提供 (PoM PoM#4143)",
+    "selectlanguage_message_title": "語言選擇"
+    "selectlanguage_message_description": "請選擇您的語言。這將於所有指令和訊息使用"
+   "setcooldown_reset": "討論串的冷卻時間現在設置為 0",
+    "setcooldown_description": "討論串的冷卻時間現在設置為 **{cooldown}**", 
+    "threadpanel_default_button_text": "Create Thread", "建立討論串",
+    "threadpanel_default_embed_title": "Thread Panel", "討論串控制板",
+    "threadpanel_default_embed_description": "點下方的按鈕建立討論串",
+    "threadpanel_create_cooldown_warning": "現在你在冷卻時間中! {timestamp} 你可建立討論串!",
+    "threadpanel_private_thread_created": "建立了私人討論串",
+    "threadpanel_public_thread_created": "公用討論串建立了",
+    "threadpanel_auditlog_reason": "{user} 用控制板建立了討論串",
+    "forum_cooldown_set": "冷卻時間成功設置於 {channel} 至 cooldown}", 
+   "error_not_forum_channel": "您指定的頻道不是組織討論頻道!",
+   "forum_message_set": "成功設置自動組織討論頻道於 {channel} 至: {message}",
+   "forum_title_set": "成功設置組織討論新標題於 {channel} 至: {title}"
+}
