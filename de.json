@@ -16,7 +16,7 @@
     "success_removechannel": "{channel} hat nun keine automatischen Threads mehr",
     "help_title": "Über EasyThreads",
     "help_description": "Ich bin EasyThreads, ich kann automatisch Threads für dich erstellen!\n\nIch erstelle automatische Threads seit <t:1656771527:D>\n\n**Meine Befehle sind**: \n[help] | Bekomme diese wundervolle Hilfeseite\n[addchannel] | Füge einem Kanal automatische Threads hinzu\n",
-    "help_description_2": "[removechannel] | Entferne automatische Threads von einem Kanal\n[listchannels] | Liste alle Kanäle mit automatischen Threads auf\n[setname] | Setze den Namen der erstellten Threads in einem bestimmten Kanal\n[setthreadmessage] | Setze die Nachricht, die in die erstellten Threads gesendet wird (je Kanal)\n[setdelay] | Setze eine Verzögerung für die Erstellung der Threads (je Kanal)\n[set-cooldown] | Setze einen chatcooldown für erstellte Threads\n[set-language] | Ändere die Sprache des Bots\n",
+    "help_description_2": "[removechannel] | Entferne automatische Threads von einem Kanal\n[listchannels] | Liste alle Kanäle mit automatischen Threads auf\n[channelsettings] | Ändere die Einstellungen für einen Kanal\n[set-language] | Ändere die Sprache des Bots\n",
     "help_description_3": "[threadpanel] | Erstelle ein Panel für die Thread-Erstellung\n[set-forum-cooldown] | Setze einen Chatcooldown für neue Forum-Posts\n[set-forum-message] | Lege eine Nachricht fest, welche in neue Forum-Posts gesendet wird\n[set-forum-title] | Setze den Post-Titel für neue Posts",
     "help_bot_variables": "\n\n**Bot Variablen**: \n{user} | Der Benutzer, der die Nachricht gesendet hat\n{channel} | Der Kanal in den die Nachricht gesendet wurde\n{guild} | Der Server in dem die Nachricht gesendet wurde\n{time} | Die Uhrzeit, zu der die Nachricht gesendet wurde\n{date} | Das Datum, an dem die Nachricht gesendet wurde\n{usermention} | Usermention (threadmessage)",
     "help_bot_invite_me": "Lade mich ein",
@@ -50,5 +50,6 @@
     "forum_cooldown_set": "Der Chatcooldown für Posts in {channel} wurde auf {cooldown} Sekunden gesetzt",
     "error_not_forum_channel": "Der angegebene Kanal ist kein Forumchannel!",
     "forum_message_set": "Du hast erfolgreich die Nachricht für neue Posts in {channel} gesetzt: {message}",
-    "forum_title_set": "Du hast erfolgreich den Titel für neue Posts in {channel} gesetzt: {title}"
+    "forum_title_set": "Du hast erfolgreich den Titel für neue Posts in {channel} gesetzt: {title}",
+    "help_translating_bot": "Hilf beim übersetzen"
 }
