@@ -20,6 +20,8 @@ But at the help Page in the <u>help_bot_variables</u> you are allowed to transla
 In <those "brackets"> are Timestamps. Please **don't** change them. Of course you can add your credits in <u>(thisbrackets)</u> at "selectlanguage_credits" like: "*(transladed by SpaceDev#0001)*"
 
 # Useful Links:
-Discord: https://discord.gg/3rgReesP5Q
+Support Server: https://discord.gg/3rgReesP5Q
+<br>
 Bot Invite: https://discord.com/api/oauth2/authorize?client_id=992796487048233000&permissions=395137256448&scope=applications.commands%20bot
+<br>
 Website: https://easythreads.xyz
