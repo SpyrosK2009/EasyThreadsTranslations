@@ -50,5 +50,7 @@
    "error_not_forum_channel": "您指定的頻道不是組織討論頻道!",
    "forum_message_set": "成功設置自動組織討論頻道於 {channel} 至: {message}",
    "forum_title_set": "成功設置組織討論新標題於 {channel} 至: {title}",
-   "help_translating_bot": "Help translating"
+   "help_translating_bot": "Help translating",
+   "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
+   "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
 }

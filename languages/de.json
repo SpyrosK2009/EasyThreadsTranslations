@@ -51,5 +51,7 @@
     "error_not_forum_channel": "Der angegebene Kanal ist kein Forumchannel!",
     "forum_message_set": "Du hast erfolgreich die Nachricht für neue Posts in {channel} gesetzt: {message}",
     "forum_title_set": "Du hast erfolgreich den Titel für neue Posts in {channel} gesetzt: {title}",
-    "help_translating_bot": "Hilf beim übersetzen"
+    "help_translating_bot": "Hilf beim übersetzen",
+    "blacklist_user_blacklisted": "{user} wurde erfolgreich von der Threaderstellung (autothread) ausgeschlossen",
+    "blacklist_user_unblacklisted": "{user} wurde erfolgreich für der Threaderstellung (autothread) wieder zugelassen"
 }

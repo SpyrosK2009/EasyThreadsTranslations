@@ -50,6 +50,8 @@
     "error_not_forum_channel": "Belirtiğiniz Kanal bir Forum kanalı değildir!",
     "forum_message_set": "{channel} için Forum otomatik mesajı başarıyla ayarlanmıştır: {message}",
     "forum_title_set": "Yeni Forum gönderileri için {channel}'deki Başlık başarıyla ayarlanmıştır: {title}",
-    "help_translating_bot": "Tercümeye yardımcı ol"
+    "help_translating_bot": "Tercümeye yardımcı ol",
+    "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
+    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
 }
 

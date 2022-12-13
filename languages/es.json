@@ -51,5 +51,7 @@
     "error_not_forum_channel": "El canal que has especificado no es un canal del foro!",
     "forum_message_set": "Se ha configurado con éxito el auto-mensaje del foro para {channel}: {message}",
     "forum_title_set": "Se ha establecido con éxito el nuevo titulo del foro para {channel}> a: {title}",
-    "help_translating_bot": "Help translating"
+    "help_translating_bot": "Help translating",
+    "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
+    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
 }

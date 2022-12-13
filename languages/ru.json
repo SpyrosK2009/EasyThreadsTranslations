@@ -51,5 +51,7 @@
     "error_not_forum_channel": "выбранный вами канал не является каналом форума ",
     "forum_message_set": "успешно автоматическое сообщение форума в  {channel} канал закрыт : {message}",
     "forum_title_set": "успешно вставил заголовок форума  {channel} к {title} установлен",
-    "help_translating_bot": "Help translating"
+    "help_translating_bot": "Help translating",
+    "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
+    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
 }
