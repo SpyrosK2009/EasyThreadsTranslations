@@ -15,9 +15,9 @@
     "success_removechannel": "{channel} şuandan itibaren otomatik Başlıkli degil.",
     "help_title": "EasyThreads Hakkında",
     "help_description": "Ben EasyThreads, senin için otomatik olarak Başlıkları oluşturabilirim!\n\n<t:1656771527:D> beri otomatik Başlık üretiyorum\n\n**Komutlarım**: \n[help] | Bu harika yardım sayfası\n[addchannel] | Bir Kanali otomatik Başlıkla\n",
-    "help_description_2": "[removechannel] | Bir kanalı otomatik Başlık'dan kaldır\n[listchannels] | Tüm otomatik Başlıkli kanalları listele[channelsettings] | Change the Settings for a channel\n[set-language] | Bot'un dilini değiştirin\n",
+    "help_description_2": "[removechannel] | Bir kanalı otomatik Başlık'dan kaldır\n[listchannels] | Tüm otomatik Başlıkli kanalları listele[channelsettings] | Bir kanalın ayarlarını değiştirin\n[set-language] | Bot'un dilini değiştirin\n",
     "help_description_3": "[threadpanel] | Thread oluşturmak için bir panel oluşturun\n[set-forum-cooldown] | Yeni Forum gönderileri için bir bekleme süresi belirleyin\n[set-forum-message] | Yeni forum gönderilerine gönderilecek bir mesaj belirleyin\n[set-forum-title] | Yeni Forum gönderileri için bir başlık belirleyin",
-    "help_bot_variables": "\n\n**Bot Göstergeleri**:\n{user} | Mesajı gönderen kullanıcı\n{channel} | Mesajın gönderildiği kanal\n{guild} | Mesajın gönderildiği sunucu\n{time} | Mesajın gönderildiği saat\n{date} | Mesajın gönderildiği tarih\n{usermention} | Usermention (threadmessage))",
+    "help_bot_variables": "\n\n**Bot Göstergeleri**:\n{user} | Mesajı gönderen kullanıcı\n{channel} | Mesajın gönderildiği kanal\n{guild} | Mesajın gönderildiği sunucu\n{time} | Mesajın gönderildiği saat\n{date} | Mesajın gönderildiği tarih\n{usermention} | Kullanıcıyı bahset (Başlık mesajı)",
     "help_bot_invite_me": "Davet et beni",
     "help_bot_support_server": "Destek Sunucusu",
     "help_bot_vote": "Oy ver",
@@ -31,9 +31,9 @@
     "setname_provide_name_description": "Kullanım Şekli: /setname <name>[newline][newline]**Kullanılabilir Göstergeler:** \n{user} | Mesajı gönderen kullanıcı\n{channel} | Mesajın gönderildiği kanal\n{guild} | Mesajın gönderildiği sunucu\n{time} | Mesajın gönderildiği saat\n{date} | Mesajın gönderildiği tarih",
     "setname_description": "Bu kanaldaki Başlık'ların adı bundan böyle **{name}** olarak ayarlanmıştır!",
     "setthreadmessage_provide_message_title": "Lütfen bir mesaj belirtin!",
-    "setthreadmessage_provide_message_description": "Kullanım Şekli: /setthreadmessage <message>\n\n**Kullanılabilir Göstergeler:** \n{user} | Mesajı gönderen kullanıcı\n{channel} | Mesajın gönderildiği kanal\n{guild} | Mesajın gönderildiği sunucu\n{time} | Mesajın gönderildiği saat\n{date} | Mesajın gönderildiği tarih\n{usermention} | Usermention",
+    "setthreadmessage_provide_message_description": "Kullanım Şekli: /setthreadmessage <mesaj>\n\n**Kullanılabilir Göstergeler:** \n{user} | Mesajı gönderen kullanıcı\n{channel} | Mesajın gönderildiği kanal\n{guild} | Mesajın gönderildiği sunucu\n{time} | Mesajın gönderildiği saat\n{date} | Mesajın gönderildiği tarih\n{usermention} | Kullanıcıyı bahset (Başlık mesajı)",
     "setthreadmessage_description": "Bu kanaldaki Başlık'lar için mesaj artık **{message}** olarak ayarlanmıştır!",
-    "setthreadmessage_reset_description": "The message for Threads in this channel was removed (This sentence is not translated yet)",
+    "setthreadmessage_reset_description": "Bu kanaldaki Başlık'lar için mesaj kaldirildi",
     "selectlanguage_credits": "Bu bot'u tercüme eden: **Burak#1350**",
     "selectlanguage_message_title": "Kullanıcı dilinizi seçin ",
     "selectlanguage_message_description": "Lütfen dilinizi seçin. Dil seçiminiz tüm komutlar ve mesajlar için kullanılacaktır.",
@@ -51,7 +51,6 @@
     "forum_message_set": "{channel} için Forum otomatik mesajı başarıyla ayarlanmıştır: {message}",
     "forum_title_set": "Yeni Forum gönderileri için {channel}'deki Başlık başarıyla ayarlanmıştır: {title}",
     "help_translating_bot": "Tercümeye yardımcı ol",
-    "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
-    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
+    "blacklist_user_blacklisted": "{user} başlık oluşturma kara listesine eklendi (otomatik Başlık)",
+    "blacklist_user_unblacklisted": "{user} başlık oluşturma kara listesinden çıkarıldı (otomatik Başlık)"
 }
-
