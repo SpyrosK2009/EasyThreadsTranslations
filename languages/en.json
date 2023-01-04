@@ -52,6 +52,8 @@
     "forum_message_set": "Successfully set the forum auto-message for {channel} to: {message}",
     "forum_title_set": "Successfully set the Title for new Forum Posts in {channel} to: {title}",
     "help_translating_bot": "Help translating",
-    "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
-    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
+    "blacklist_user_blacklisted": "{user} is now blocked from creating threads (autothread)",
+    "blacklist_user_unblacklisted": "{user} is now unblocked for Thread-Creation (autothread)",
+    "blacklist_role_blacklisted": "{role} is now blocked from creating threads (autothread)",
+    "blacklist_role_unblacklisted": "{role} is now unblocked for Thread-Creation (autothread)"
 }
