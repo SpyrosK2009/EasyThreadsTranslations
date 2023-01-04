@@ -53,5 +53,7 @@
     "forum_title_set": "Du hast erfolgreich den Titel für neue Posts in {channel} gesetzt: {title}",
     "help_translating_bot": "Hilf beim übersetzen",
     "blacklist_user_blacklisted": "{user} wurde erfolgreich von der Threaderstellung (autothread) ausgeschlossen",
-    "blacklist_user_unblacklisted": "{user} wurde erfolgreich für der Threaderstellung (autothread) wieder zugelassen"
+    "blacklist_user_unblacklisted": "{user} wurde erfolgreich für die Threaderstellung (autothread) wieder zugelassen",
+    "blacklist_role_blacklisted": "{role} wurde erfolgreich von der Threaderstellung (autothread) ausgeschlossen",
+    "blacklist_role_unblacklisted": "{role} wurde erfolgreich für die Threaderstellung (autothread) wieder zugelassen"
 }

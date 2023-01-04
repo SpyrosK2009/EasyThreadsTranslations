@@ -53,5 +53,7 @@
     "forum_title_set": "успешно вставил заголовок форума  {channel} к {title} установлен",
     "help_translating_bot": "Help translating",
     "blacklist_user_blacklisted": "{user} was blacklisted from creating threads (autothread)",
-    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)"
+    "blacklist_user_unblacklisted": "{user} was unblacklisted for Thread-Creation (autothread)",
+    "blacklist_role_blacklisted": "{role} was blacklisted from creating threads (autothread)",
+    "blacklist_role_unblacklisted": "{role} was unblacklisted for Thread-Creation (autothread)"
 }

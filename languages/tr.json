@@ -52,5 +52,7 @@
     "forum_title_set": "Yeni Forum gönderileri için {channel}'deki Başlık başarıyla ayarlanmıştır: {title}",
     "help_translating_bot": "Tercümeye yardımcı ol",
     "blacklist_user_blacklisted": "{user} başlık oluşturma kara listesine eklendi (otomatik Başlık)",
-    "blacklist_user_unblacklisted": "{user} başlık oluşturma kara listesinden çıkarıldı (otomatik Başlık)"
+    "blacklist_user_unblacklisted": "{user} başlık oluşturma kara listesinden çıkarıldı (otomatik Başlık)",
+    "blacklist_role_blacklisted": "{role} başlık oluşturma kara listesine eklendi (otomatik Başlık)",
+    "blacklist_role_unblacklisted": "{role} başlık oluşturma kara listesinden çıkarıldı (otomatik Başlık)"
 }

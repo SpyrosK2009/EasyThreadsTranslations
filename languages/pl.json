@@ -53,5 +53,7 @@
     "forum_title_set": "Pomyślnie ustawiono tytuł dla nowych postów w forum dla kanału {channel} na: {title}",
     "help_translating_bot": "Pomóż w tłumaczeniu",
     "blacklist_user_blacklisted": "Nalozono blackliste na {user} na tworzenie wątków (autothread)",
-    "blacklist_user_unblacklisted": "Zdjęto blacklistę z {user} na tworzenie wątków (autothread)"
+    "blacklist_user_unblacklisted": "Zdjęto blacklistę z {user} na tworzenie wątków (autothread)",
+    "blacklist_role_blacklisted": "Nalozono blackliste na {role} na tworzenie wątków (autothread)",
+    "blacklist_role_unblacklisted": "Zdjęto blacklistę z {role} na tworzenie wątków (autothread)"
 }
